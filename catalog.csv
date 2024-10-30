@@ -1,0 +1,59 @@
+ID	class	label	color	material	special
+1	apple	apple_1	red	organic	
+2	apple	apple_2	green	organic	
+3	ball	ball_1	blue	plastic	
+4	ball	ball_2	yellow	plastic	rugby ball
+5	ball	ball_3	red and white	plastic	polka ball,ball with spots,ball with dots
+6	banana	banana_1	yellow	organic	
+7	bell_pepper	bell_pepper_1	red	organic	
+8	binder	binder_1	green	plastic	
+9	bowl	bowl_1	blue	ceramic	
+10	cereal_box	cereal_box_1	red	paper	Topas box,Topas cereal box,Topas corn flakes,Topas cereal
+11	cereal_box	cereal_box_3	white and blue	paper	Mega Pack box,Mega Pack cereal box,Mega Pack cereal,Mega Pack corn flakes
+12	cereal_box	cereal_box_4	brown	paper	Choco Krispies box,Choco Krispies cereal box,Choco Krispies box,Choco Krispies corn flakes  
+13	cereal_box	cereal_box_5	green and red	paper	Chocos box,Chocos cereal box,Chocos box,Chocos corn flakes  
+14	coffee_mug	coffee_mug_1	black	ceramic	mug with evolution logo
+15	coffee_mug	coffee_mug_2	white	ceramic	plain mug
+16	flashlight	flashlight_1	black	metal	
+17	food_bag	food_bag_2	transparent	plastic	lentil bag,bag with lentils
+18	food_bag	food_bag_3	red and white	plastic	pasta bag,penne bag,spaghetti bag,spaghetti penne bag,bag with pasta
+19	food_bag	food_bag_4	white	plastic	rice bag,Langkorn rice bag,clever rice bag,bag with rice
+20	food_box	food_box_1	dark blue	paper	Barilla box,tagliatelle,spaghetti box
+21	food_box	food_box_2	yellow and green	paper	chocolate banana box,choco-bananas,chocolate banana box,box with choco-banana
+22	food_box	food_box_3	blue and beige	paper	oat box,oatmeal box,box with oats,box with oatmeal
+23	food_can	food_can_1	green and yellow	aluminium	exotic food can
+24	food_can	food_can_2	red and white	aluminium	tomato can,tomato pulp can,tomato pulp
+25	food_can	food_can_3	red	aluminium	breakfast meat can,breakfast meat,can with meat,can with breakfast meat
+26	glue_stick	glue_stick_1	yellow	plastic	
+27	hand_towel	hand_towel_1	pink	cotton	
+28	hand_towel	hand_towel_2	red and white	cotton	
+29	hand_towel	hand_towel_3	white and yellow	cotton	
+30	instant_noodles	instant_noodles_1	red	plastic	shrimp noodles,YumYum noodles,shrimp noodles package
+31	instant_noodles	instant_noodles_2	black and transparent	plastic	Alnatura noodles,Alnatura noodles package
+32	keyboard	keyboard_1	black	plastic	
+33	keyboard	keyboard_2	white	plastic	
+34	kleenex	kleenex_1	pink	paper	Feh kleenex box,Feh kleenex package,Feh kleenex tissues
+35	kleenex	kleenex_2	brown	paper	cube keenex box,cuboid kleenex box,Jembo kleenex box,Jembo kleenex package,cube kleenex tissues box,cube kleenex tissues package
+36	kleenex	kleenex_3	light blue	paper	Lovely kleenex box,Lovely kleenex package,Lovely kleenex tissues
+37	lemon	lemon_1	yellow	organic	
+38	lime	lime_1	green	organic	
+39	marker	marker_1	white and green	plastic	
+40	marker	marker_2	white and blue	plastic	
+41	marker	marker_3	blue and black	plastic	
+42	orange	orange_1	orange	organic	
+43	peach	peach_1	red	organic	
+44	pear	pear_1	green	organic	ripe pear
+45	pear	pear_2	yellow and brown	organic	mature pear
+46	potato	potato_1	brown	organic	
+47	shampoo	shampoo_1	white and blue	plastic	Aussie shampoo,Aussie shampoo bottle
+48	shampoo	shampoo_2	gray and blue	plastic	Alverde shampoo,citrus and pepper shampoo,Alverde shampoo bottle
+49	shampoo	shampoo_3	white and red	plastic	Vichy shampoo,Vichy shampoo bottle
+50	soda_can	soda_can_1	orange	aluminium	Fanta,Fanta can,Fanta drink,Fanta
+51	soda_can	soda_can_2	red	aluminium	Coke,Coca-Cola,Coke can,Coca-Cola can,Coca-Cola drink,Coke drink,Cola,Cola can,Cola drink
+52	sponge	sponge_1	yellow and green	plastic	
+53	sponge	sponge_2	green and blue	plastic	
+54	stapler	stapler_1	blue	plastic	
+55	stapler	stapler_2	beige	plastic	
+56	tomato	tomato_1	red	organic	
+57	toothpaste	toothpaste_1	blue	plastic	blend-a-med toothpaste
+58	toothpaste	toothpaste_2	green	plastic	Colgate toothpaste

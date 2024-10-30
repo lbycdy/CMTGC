@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="66598329-dd85-40cc-a57c-1235f38faf6d" name="crog">
+        <fileTransfer accessType="SFTP" host="192.10.84.73" port="26949" sshConfigId="c7e870db-e33e-4436-98aa-60e3deadbff4" sshConfig="root@192.10.84.73:26949 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
