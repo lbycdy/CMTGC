@@ -1,4 +1,5 @@
-![GIF 演示](https://github.com/lbycdy/CMTGC/1.gif)
+![GIF 演示](https://github.com/lbycdy/CMTGC/raw/main/demo.gif)
+
 
 
 
