@@ -1,11 +1,12 @@
 
 # 🎥 demo
 ![GIF demo](1.gif)
+![GIF demo](2.gif)
 
 
-Currently I have only provided the code for part of the structure. The complete code and video demo will be released after the acceptance notification.
 ## Preparation
 
+Currently I have only provided the code for part of the structure. The complete code and video demo will be released after the acceptance notification.
 
 Environment
    - use the environment.yml file to create the conda env.
