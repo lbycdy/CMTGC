@@ -1,6 +1,6 @@
-![GIF 演示](https://github.com/lbycdy/CMTGC/raw/main/demo.gif)
 
-
+# 🎥 demo
+![GIF demo](https://github.com/lbycdy/CMTGC/raw/main/demo.gif)
 
 
 Currently I have only provided the code for part of the structure. The complete code and video demo will be released after the acceptance notification.
