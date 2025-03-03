@@ -1,3 +1,7 @@
+![GIF 演示](https://github.com/lbycdy/CMTGC/1.gif)
+
+
+
 Currently I have only provided the code for part of the structure. The complete code and video demo will be released after the acceptance notification.
 ## Preparation
 
